@@ -1,0 +1,4 @@
+Expérience,Algorithme,Reward Final,Taux Succès (%),Latence (ms),Variance,Temps (s),learning_rate,gamma,batch_size,n_steps
+PPO_standard,ppo,-212.67 ± 286.50,69.4,5.43,82081.69,106.5,0.0003,0.99,128,2048
+PPO_high_lr,ppo,-176.22 ± 311.69,66.8,11.61,97153.68,107.7,0.001,0.99,128,2048
+PPO_more_steps,ppo,-31.40 ± 163.38,68.9,6.38,26694.30,108.0,0.0003,0.99,128,4096

@@ -1,0 +1,5 @@
+Expérience,Algorithme,Reward Final,Taux Succès (%),Latence (ms),Variance,Temps (s),epsilon_decay,lr,gamma
+QLearning_epsilon_0.995,qlearning,-442.40 ± 328.50,61.9,17.61,107912.19,22.7,0.995,0.05,0.99
+QLearning_epsilon_0.9975,qlearning,-524.99 ± 312.26,61.1,19.02,97504.72,23.1,0.9975,0.05,0.99
+QLearning_epsilon_0.999,qlearning,-555.79 ± 350.30,61.3,18.23,122709.86,22.9,0.999,0.05,0.99
+QLearning_epsilon_0.9995,qlearning,-1009.71 ± 258.56,48.8,26.15,66853.00,23.2,0.9995,0.05,0.99

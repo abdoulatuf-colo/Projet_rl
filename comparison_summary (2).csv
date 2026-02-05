@@ -1,0 +1,5 @@
+Expérience,Algorithme,Reward Final,Taux Succès (%),Latence (ms),Variance,Temps (s),learning_rate,epsilon_decay,target_update_freq
+DQN_lr_0.0001,double_dqn,-376.42 ± 279.53,61.8,11.83,78135.96,2439.1,0.0001,0.999,500
+DQN_lr_0.0003,double_dqn,-360.55 ± 280.42,62.1,12.43,78636.27,2438.3,0.0003,0.999,500
+DQN_lr_0.0005,double_dqn,-378.48 ± 297.63,62.2,13.28,88584.86,2438.3,0.0005,0.999,500
+DQN_lr_0.001,double_dqn,-417.08 ± 305.96,61.5,13.24,93610.37,2439.2,0.001,0.999,500
